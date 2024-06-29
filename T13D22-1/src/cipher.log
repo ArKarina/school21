@@ -1,0 +1,33 @@
+[2024-06-25 15:04:33] INFO: Option 1 selected
+[2024-06-25 15:04:38] INFO: Opening file to reading: text.txt
+[2024-06-25 15:04:38] INFO: Close file: text.txt
+[2024-06-25 15:04:49] INFO: Exiting program
+[2024-06-25 15:04:54] INFO: Option 2 selected
+[2024-06-25 15:04:57] INFO: The string is written to a file
+[2024-06-25 15:05:04] INFO: Option 1 selected
+[2024-06-25 15:05:09] INFO: Opening file to reading: love.txt
+[2024-06-25 15:05:09] INFO: Close file: love.txt
+[2024-06-25 15:05:11] INFO: Exiting program
+[2024-06-25 15:10:11] INFO: Option 1 selected
+[2024-06-25 15:10:18] INFO: Opening file to reading: love.txt
+[2024-06-25 15:10:18] INFO: Close file: love.txt
+[2024-06-25 15:10:20] INFO: Option 2 selected
+[2024-06-25 15:10:24] INFO: Open file to write: love.txt
+[2024-06-25 15:10:24] INFO: Message is written to a file: love.txt
+[2024-06-25 15:10:24] INFO: Opening file to reading: love.txt
+[2024-06-25 15:10:24] INFO: Close file: love.txt
+[2024-06-25 15:10:29] INFO: Option 2 selected
+[2024-06-25 15:10:35] INFO: Open file to write: love.txt
+[2024-06-25 15:10:35] INFO: Message is written to a file: love.txt
+[2024-06-25 15:10:35] INFO: Opening file to reading: love.txt
+[2024-06-25 15:10:35] INFO: Close file: love.txt
+[2024-06-25 15:10:42] INFO: Option 2 selected
+[2024-06-25 15:10:46] INFO: Open file to write: love.txt
+[2024-06-25 15:10:46] INFO: Message is written to a file: love.txt
+[2024-06-25 15:10:46] INFO: Opening file to reading: love.txt
+[2024-06-25 15:10:46] INFO: Close file: love.txt
+[2024-06-25 15:10:53] INFO: Exiting program
+[2024-06-25 15:15:17] INFO: Option 1 selected
+[2024-06-25 15:15:21] INFO: Opening file to reading: text.txt
+[2024-06-25 15:15:21] INFO: Close file: text.txt
+[2024-06-25 15:15:25] INFO: Exiting program
